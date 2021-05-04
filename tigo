@@ -1,0 +1,73 @@
+{
+    "posts": [
+        {  
+            "valor": 120000,
+            "fechaVencimiento": "01-06-2021",
+            "descripcion": "Pago factura ",
+            "nombre": "Alejandra Correa",
+            "tipoId": "CC",
+            "cedula":"1020480143",
+            "email": "maria.correa@payco.co",
+            "celular": "3215468555",
+            "factura": "001",
+            "referenciaPago":"348593945-4",
+            "tipoProducto":"hogar"
+        },
+        {  
+            "valor": 130000,
+            "fechaVencimiento": "01-06-2021",
+            "descripcion": "Pago Recaudo",
+            "nombre": "Alejandra Correa",
+            "tipoId": "CC",
+            "cedula":"1020480143",
+            "email": "maria.correa@payco.co", 
+            "celular": "3215468555",
+            "factura": "002",
+            "referenciaPago":"348594145-4",
+            "tipoProducto":"movil"
+            
+        },
+        {  
+            "valor": 100000,
+            "fechaVencimiento": "01-06-2021",
+            "descripcion": "Pago Recaudo",
+            "nombre": "Andres Tangarife",
+            "tipoId": "CC",
+            "cedula":"1036640253",
+            "email": "andres.tangarife@payco.co",
+            "celular": "3215474555",
+            "factura": "003",
+            "referenciaPago":"348536945-4",
+            "tipoProducto":"hogar"
+        },
+        {  
+            "valor": 90000,
+            "fechaVencimiento": "01-06-2021",
+            "descripcion": "Pago Recaudo",
+            "nombre": "David Herrera",
+            "tipoId": "CE",
+            "cedula":"300792415",
+            "email": "David.herrera@payco.co",
+            "celular": "3195635862",
+            "factura": "004",
+            "referenciaPago":"348596945-4",
+            "tipoProducto":"hogar"
+        },
+        {  
+            "valor": 80000,
+            "Fecha de vencimiento": "01-06-2021",
+            "descripcion": "Pago Recaudo",
+            "nombre": "Simon Sanchez",
+            "tipiId": "CE",
+            "cedula":"1000452148",
+            "email": "Simon Sanchez",
+            "celular": "3195645862",
+            "factura": "005",
+            "referenciaPago":"348593945-4",
+            "tipoProducto":"hogar"
+        }        
+    ],
+        "profile":{
+            "name": "typicode"
+        }
+}
