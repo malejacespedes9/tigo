@@ -38,7 +38,7 @@
              "tipoProducto":"movil",
             "descripcion": "Pago factura ",
             "fechaVencimiento": "01-06-2021"
-        },     
+        }
     ],
         "profile":{
             "name": "typicode"
